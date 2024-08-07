@@ -2474,6 +2474,7 @@
     }
   },
   "folderNames": {
+    "feature" : "feature",
     ".dart_tool": "bird",
     "src": "folder-src",
     "srcs": "folder-src",
@@ -3106,6 +3107,7 @@
     ".godot-cpp": "folder-godot"
   },
   "folderNamesExpanded": {
+    "feature" : "feature",
     "src": "folder-src-open",
     "srcs": "folder-src-open",
     "source": "folder-src-open",
@@ -4239,8 +4241,6 @@
     "applescript": "applescript",
     "ipa": "applescript",
     "cake": "cake",
-    "feature": "cucumber",
-    "features": "cucumber",
     "nim": "nim",
     "nimble": "nim",
     "apib": "apiblueprint",

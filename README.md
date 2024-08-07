@@ -1,10 +1,10 @@
 <img height="200" src="https://avatars.githubusercontent.com/u/11242654?s=400&v=4"></img>
 
-# Flutter Icons
+# Flutter Icons Plus
 ----
 ## You're `vscode extension` that display a large gam of icons for a clean architecture of you're Flutter project !
 
-## <a href="https://marketplace.visualstudio.com/items?itemName=AntoineGtr.flutter-icons">Click here to install</a>
+## <a href="https://marketplace.visualstudio.com/items?itemName=AntoineGtr.flutter-icons-plus">Click here to install</a>
 
 
 |   Before   |   After  |
@@ -47,7 +47,7 @@
 ---
 ## Contributing
 
-Feel free to create read the <a href="https://github.com/Antoinegtir/flutter-icons/contributing.md">Contributing</a> if you wanna add some flutter icons that i might forgot !
+Feel free to create read the <a href="https://github.com/Antoinegtir/flutter-icons-plus/contributing.md">Contributing</a> if you wanna add some flutter icons that i might forgot !
 
 ## Credits
 
